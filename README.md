@@ -1,5 +1,6 @@
 ### Build Larage Language Model from Scratch
-Here is the model architecture diagram:
+Here is the model architecture diagram that I implemented:
+<img width="801" height="542" alt="Screenshot 2025-12-01 at 9 24 08 PM" src="https://github.com/user-attachments/assets/ba762af9-654d-435f-b5c8-8e4b93657397" />
 
 
 ### Prepare data
@@ -33,6 +34,4 @@ python train.py \
     --train-input-path <path_to_train.bin> \
     --test-input-path <path_to_test.bin>
 ```
-
-### Validation Loss Example
 
