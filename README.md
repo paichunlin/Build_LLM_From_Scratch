@@ -5,6 +5,8 @@ Here is the model architecture diagram that I implemented:
 
 FlashAttention-2 Triton source code is also included for performance optimization.
 
+Primary Contact: <a href="https://www.linkedin.com/in/paichunjimlin">Paichun Lin's LinkedIn</a> | paichul@cs.stanford.edu
+
 ### Prepare data
 Please follow the instructions to prepare the training and validation data:
 1. Install uv
