@@ -1,9 +1,8 @@
-### Build Larage Language Model from Scratch 
-#### (and Triton Performance Optimization)
+### Build Larage Language Model from Scratch (and with Triton Kernels Optimization)
 Here is the model architecture diagram that I implemented:
 <img width="801" height="542" alt="Screenshot 2025-12-01 at 9 24 08 PM" src="https://github.com/user-attachments/assets/ba762af9-654d-435f-b5c8-8e4b93657397" />
 
-FlashAttention-2 Triton source code is also included for performance optimization.
+FlashAttention-2 Triton kernel source code is also included for performance optimization.
 
 Primary Contact: <a href="https://www.linkedin.com/in/paichunjimlin">Paichun Lin's LinkedIn</a> | paichul@cs.stanford.edu
 
